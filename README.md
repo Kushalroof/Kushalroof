@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushal N S</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayangchawhan&label=Profile%20views&color=0e75b6&style=flat" alt="kushalns" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kushalroof&label=Profile%20views&color=0e75b6&style=flat" alt="kushalns" /> </p>
 
 A highly motivated and results-driven Computer Science student with a 9.21 CGPA, known for delivering strong
 individual and team performance. Skilled in MERN-stack development, with hands-on experience building
